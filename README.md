@@ -1,6 +1,21 @@
 # Climate Data Engineering Pipeline with Apache Airflow, Spark, SQL Server and Machine Learning
 
 ## Overview
+# System Architecture
+
+![Architecture](reports/screenshots/architecture.png)
+
+---
+
+# Dashboard Overview
+
+![Dashboard](reports/screenshots/Dashboard.png)
+
+---
+
+# Machine Learning Prediction
+
+![Prediction](reports/screenshots/prediction.png)
 
 This project presents an end-to-end Big Data pipeline for processing and analyzing large-scale climate data collected from the NOAA Global Historical Climatology Network (GHCN).
 
