@@ -1,0 +1,9 @@
+WEATHER PREDICTION MODEL REPORT
+===============================
+Total rows: 405297
+Train rows: 324237
+Test rows: 81060
+Model: RandomForestRegressor
+MAE: 4.2688855053115615
+MSE: 200.13222722984077
+R2 Score: 0.9223527602826056

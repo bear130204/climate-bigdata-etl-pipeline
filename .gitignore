@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+bigdata_env/
+venv/
+.env
+
+# Raw big data
+data/raw/
+*.csv.gz
+
+# Processed large files
+data/processed/*.csv
+warehouse/*.csv
+
+# Logs
+logs/
+*.log
+
+# Airflow
+airflow/logs/
+airflow/plugins/
+airflow/.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Model cache
+*.joblib
+
+scripts/models/*.pkl
